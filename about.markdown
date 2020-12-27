@@ -1,11 +1,15 @@
 ---
-layout: about 
+layout: page
+title: About
 permalink: /about/
 ---
 
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Open+Sans:299,400,700,800'><link rel="stylesheet" href="/assets/css/style.css">
+<link rel="stylesheet" href="/assets/css/normalize.min.cs">
+<link rel='stylesheet' href='/assets/css/swiper.min.css'>
 <!-- partial:index.partial.html -->
 <div class="container">
-  <h1 class="title">Responsive Slider Timeline</h1>
+  <h1 class="title">My Timeline (so far!)</h1>
   <div class="timeline">
     <div class="swiper-container">
       <div class="swiper-wrapper">
@@ -80,3 +84,6 @@ permalink: /about/
   </div>
 </div>
 <!-- partial -->
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/js/swiper.min.js'></script>
+<script  src="/assets/js/script.js"></script>
