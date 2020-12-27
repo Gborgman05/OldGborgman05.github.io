@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Open+Sans:299,400,700,800'><link rel="stylesheet" href="/assets/css/style.css">
-<link rel="stylesheet" href="/assets/css/normalize.min.cs">
+<link rel="stylesheet" href="/assets/css/normalize.min.css">
 <link rel='stylesheet' href='/assets/css/swiper.min.css'>
 <!-- partial:index.partial.html -->
 <div class="container">
