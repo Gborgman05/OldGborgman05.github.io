@@ -5,8 +5,6 @@ date:   2020-12-12 10:43:10 -0800
 categories: thoughts 
 ---
 
-# Statistics for Data Science
-
 I have been following [this][stats-course] basic statistics for data science course lately. The presenter is talking primarily from a healthcare point of view. At first, I thought that this might be less relevant than other statistics courses that are made by computer scientists, for computer scientists.
 
 In reality, this course has been more interesting than many of the courses that I've taken that focus exclusively on the computer science perspective on a subject.
