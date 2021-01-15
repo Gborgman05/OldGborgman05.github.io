@@ -39,3 +39,14 @@ These are some of my favorite things. Ask me about them if you want to strike up
 - learning 
 - dancing
 - talking with new people
+
+## Movies
+
+- The Perks of Being a Wallflower
+- Inception
+
+## TV shows
+
+- Jeopardy
+- Black Mirror
+- Game of Thrones
