@@ -21,3 +21,5 @@ Arkham Horror is a cooperative campaign-driven card game where the players take 
 - and of course the depression-era bootleggers
 
 These characters are fun and the difficulty of the game can lead into the feeling of unsurmountable odds and fear of the unknown — common themes within the game's domain: eldritch horror. 
+
+The main issue with Arkham is their releases are quite expensive for the cards you get from it. This makes the game in general difficult to rationalize the cost. 
