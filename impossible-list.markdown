@@ -11,3 +11,7 @@ Here is a list of impossible things that I have, or I will do!
 - be able to retire by the time I am 25 years old
 - play cello in a string quartet (again)
 - write my own fantasy novel
+
+- live in another country for a year
+- start my own company
+- cook food from 10 different cuisines 
